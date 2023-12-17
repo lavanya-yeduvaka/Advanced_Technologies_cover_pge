@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.bottom-card-container {
+    background-color: #ffffff;
+    border-top-right-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 25px;
+    text-align: left;
+    height: 5vh;
+}
+
+.bottom-card-heading {
+    text-align: left;
+    color: #5752ab;
+    font-family: "Bree Serif";
+}
+
+.bottom-card-paragraph {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 20px;
+    text-align: left;
+}
+
+.button-style {
+    width: 150px;
+    height: 45px;
+    border-color: #d7dfe9;
+    border-radius: 10px;
+    margin: 10px;
+    font-family: "Roboto";
+}
+
+.button-white {
+    background-color: #ffffff;
+    color: #171f46;
+}
+
+.button-blue {
+    background-color: #5752ab;
+    color: #ffffff;
+}
